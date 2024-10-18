@@ -11,6 +11,9 @@
 
 ### Dependencies
 
+```
+pip install -r requirements.txt
+```
 
 ### Executing program
 
