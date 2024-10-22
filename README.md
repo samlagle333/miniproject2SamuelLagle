@@ -9,6 +9,10 @@
 
 ## Getting Started
 
+```
+Retrieve data file from https://www.kaggle.com/datasets/infosecjobs/global-salaries-in-cybersecurity-infosec
+```
+
 ### Dependencies
 
 ```
@@ -29,3 +33,4 @@ Samuel Lagle
 Inspiration, code snippets, etc.
 * [matplotlib](https://matplotlib.org/)
 * [chatgpt](https://chatgpt.com/share/66f4b3a1-9a60-8000-ae7d-b9b68340f494)
+* [kaggle](https://www.kaggle.com/datasets/infosecjobs/global-salaries-in-cybersecurity-infosec)
