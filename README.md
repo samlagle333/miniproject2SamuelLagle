@@ -7,7 +7,7 @@
 
 ## Description
 
-THis project uses cybersecurity salary data from the past five years that can be downloaded from the kaggle website to then filter that data down to cybersecurity engineers only and plot the data into six different plot types.
+This project uses cybersecurity salary data from the past five years that can be downloaded from the kaggle website to then filter that data down to security engineers only and plot the data into six different plot types.
 
 ## Getting Started
 
